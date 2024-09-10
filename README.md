@@ -1,25 +1,7 @@
 
 ## 💫 About Me:
 ### 👋 Hello 你好 안녕하세요 👋
-
-### 📚 I'm currently studying:
-- Cybersecurity
-
-### 🔭 I’m currently working on:
-- Mastering the kimchi making process. 
-
-
-### 🌱 I’m currently learning:
-- Artificial Intelligence Fundamentals
-- Computer Forensics
-- Penetration Testing
-
-### 🤔 I’m looking for help with:
-- Having a better understanding of Python coding
-
-### ⚡ Things I 💕:
-- Mini cows ♥️.
-- 💌🐰🐶❄️
+- cybersecurity intelligence, pen tester, digital forensics
 
 <div display="flex">
   <p align="center">
