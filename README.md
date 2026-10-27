@@ -1,7 +1,7 @@
 
 ## 💫 About Me:
 ### 👋 Hello 你好 안녕하세요 👋
-- cybersecurity intelligence, pen tester, digital forensics
+- Cybersecurity Graduate | Learning Data Analytics | Melbourne
 
 <div display="flex">
   <p align="center">
